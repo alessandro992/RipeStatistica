@@ -1,0 +1,418 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,DistributionChannel,UserLanguage,Q45,Q35,Q35_9_TEXT,Q10,Q11,Q11_1_TEXT,Q11_2_TEXT,Q11_3_TEXT,Q11_4_TEXT,Q11_5_TEXT,Q11_6_TEXT,Q11_7_TEXT,Q11_8_TEXT,Q11_9_TEXT,Q11_10_TEXT,Q24,Q41,Q41_1_TEXT,Q41_2_TEXT,Q41_3_TEXT,Q41_4_TEXT,Q41_5_TEXT,Q41_6_TEXT,Q41_7_TEXT,Q41_8_TEXT,Q41_9_TEXT,Q41_10_TEXT,Q28,Q28_5_TEXT,Q22,Q22_9_TEXT,Q33,Q34,Q34_1_TEXT,Q34_2_TEXT,Q34_3_TEXT,Q34_4_TEXT,Q34_5_TEXT,Q34_6_TEXT,Q34_7_TEXT,Q34_8_TEXT,Q34_9_TEXT,Q34_10_TEXT,Q38,Q31,Q31_1_TEXT,Q31_2_TEXT,Q31_3_TEXT,Q31_4_TEXT,Q31_5_TEXT,Q31_6_TEXT,Q31_7_TEXT,Q31_8_TEXT,Q31_9_TEXT,Q31_10_TEXT,Q36,Q36_5_TEXT,Q13,Q29,Q29_1_TEXT,Q32,Q32_1_TEXT,Q15,Q14,Q14_4_TEXT,Q16,Q58,Q41_3_TEXT - Parent Topics,Q41_3_TEXT - Topics
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Distribution Channel,User Language,"- If you agree with all statements listed above, click YES.
+
+- If you disagree with any of the statements above, click NO and you will be taken to the end of this survey.","How long do you think a low-intensity self-administered mindfulness intervention should last, in order to observe a significant reduction of participants' stress level? - Selected Choice","How long do you think a low-intensity self-administered mindfulness intervention should last, in order to observe a significant reduction of participants' stress level? - other duration (please specify) - Text","To observe a significant reduction of participants' stress levels, how many times a week participants should do exercises of self-administered mindfulness?","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - Selected Choice","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 1 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 2 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 3 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 4 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 5 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 6 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 7 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 8 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 9 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a low-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 10 (provide a brief description) - Text",Is the order of the exercises you listed in the previous question - in your view - important to have any effect on stress reduction?,"For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - Selected Choice","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 1 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 2 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 3 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 4 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 5 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 6 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 7 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 8 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 9 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention. 
+ 
+
+Following we provide two examples to make you understand the format of the answer:
+
+ 
+
+Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).
+
+ 
+
+ (Please fill in as many fields as you want.) - exercise 10 - Text","Which type of source do you think it would be more effective for practicing a low-intensity self-administered mindfulness intervention?
+
+ (Please fill in as many fields as you want.) - Selected Choice","Which type of source do you think it would be more effective for practicing a low-intensity self-administered mindfulness intervention?
+
+ (Please fill in as many fields as you want.) - another source (write which) - Text","How long do you think a high-intensity self-administered mindfulness intervention should last, in order to see an impact on personality traits that are relevant to the buildup of stress (e.g., trait anxiety, tendency to ruminate)? - Selected Choice","How long do you think a high-intensity self-administered mindfulness intervention should last, in order to see an impact on personality traits that are relevant to the buildup of stress (e.g., trait anxiety, tendency to ruminate)? - other duration (please specify) - Text","To see an impact on personality traits that are relevant to the buildup of stress (e.g., trait anxiety, tendency to ruminate), how many times a week participants should do exercises of self-administered mindfulness?","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - Selected Choice","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 1 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 2 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 3 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 4 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 5 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 6 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 7 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 8 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 9 (provide a brief description) - Text","In your opinion, what types of exercises (e.g., body scan or focus on breathing) should be included in a high-intensity self-administered mindfulness intervention?
+
+ 
+
+Note: the mentioned exercises (body scan and focus on breathing) are just examples, feel free to include them or not include them if you think they are not effective.
+
+ 
+
+(Please fill in as many fields as you want with the name of the exercise.) - exercise 10 (provide a brief description) - Text","Is the order of the exercises you listed in the previous question important to have an impact on personality traits that are relevant to the buildup of stress (e.g., trait anxiety, tendency to ruminate)?","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - Selected Choice","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 1 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 2 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 3 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 4 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 5 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 6 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 7 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 8 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 9 - Text","For each exercise we would also like to ask you how long you think it should be practiced and how often. To facilitate the analysis of the data of this questionnaire, please follow this format in the answer: Name; daily duration of the exercise (in minutes); weekly frequency; week number of the intervention.  Following we provide two examples to make you understand the format of the answer: Example 1 →  body scan;10;4;1 (meaning a 10 minutes body scan session, repeated 4 times during the first week of treatment).
+Example 2 →  mindful walking;5;3;1-2 (meaning a 5 minutes mindful walking session, repeated 3 times during the first and second week of treatment).
+
+Please insert "";"" after any information entered without inserting spaces (as in the example shown).  (Please fill in as many fields as you want.) - exercise 10 - Text","Which type of source do you think it would be more effective for practicing a high-intensity self-administered mindfulness intervention?
+
+ (Please fill in as many fields as you want.) - Selected Choice","Which type of source do you think it would be more effective for practicing a high-intensity self-administered mindfulness intervention?
+
+ (Please fill in as many fields as you want.) - another source (write which) - Text","Are there any variables (age, gender, personality traits) which may affect the relationship between a self-administered mindfulness intervention and the levels of stress of individuals?
+ 
+
+Note: the variables in brackets are just an example, feel free to include them or not include them if you think they are not effective.",Do you think there may be cultural differences that can impact the quality of the self-administered mindfulness intervention as regards adherence to the treatment? - Selected Choice,Do you think there may be cultural differences that can impact the quality of the self-administered mindfulness intervention as regards adherence to the treatment? - Yes (please specify which) - Text,Do you think there may be cultural differences that can impact the quality of the self-administered mindfulness intervention as regards effectiveness of the treatment? - Selected Choice,Do you think there may be cultural differences that can impact the quality of the self-administered mindfulness intervention as regards effectiveness of the treatment? - Yes (please specify which) - Text,Do you have other general suggestions relating to interventions of self-administered mindfulness?,What is your expertise in mindfulness? - Selected Choice,What is your expertise in mindfulness? - other - Text,How many years of professional experience do you have in practicing mindfulness?,List of Countries,Q41_3_TEXT - Parent Topics,Q41_3_TEXT - Topics
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID45""}","{""ImportId"":""QID35""}","{""ImportId"":""QID35_9_TEXT""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID11_1_TEXT""}","{""ImportId"":""QID11_2_TEXT""}","{""ImportId"":""QID11_3_TEXT""}","{""ImportId"":""QID11_4_TEXT""}","{""ImportId"":""QID11_5_TEXT""}","{""ImportId"":""QID11_6_TEXT""}","{""ImportId"":""QID11_7_TEXT""}","{""ImportId"":""QID11_8_TEXT""}","{""ImportId"":""QID11_9_TEXT""}","{""ImportId"":""QID11_10_TEXT""}","{""ImportId"":""QID24""}","{""ImportId"":""QID62""}","{""ImportId"":""QID62_1_TEXT""}","{""ImportId"":""QID62_2_TEXT""}","{""ImportId"":""QID62_3_TEXT""}","{""ImportId"":""QID62_4_TEXT""}","{""ImportId"":""QID62_5_TEXT""}","{""ImportId"":""QID62_6_TEXT""}","{""ImportId"":""QID62_7_TEXT""}","{""ImportId"":""QID62_8_TEXT""}","{""ImportId"":""QID62_9_TEXT""}","{""ImportId"":""QID62_10_TEXT""}","{""ImportId"":""QID49""}","{""ImportId"":""QID49_5_TEXT""}","{""ImportId"":""QID22""}","{""ImportId"":""QID22_9_TEXT""}","{""ImportId"":""QID54""}","{""ImportId"":""QID55""}","{""ImportId"":""QID55_1_TEXT""}","{""ImportId"":""QID55_2_TEXT""}","{""ImportId"":""QID55_3_TEXT""}","{""ImportId"":""QID55_4_TEXT""}","{""ImportId"":""QID55_5_TEXT""}","{""ImportId"":""QID55_6_TEXT""}","{""ImportId"":""QID55_7_TEXT""}","{""ImportId"":""QID55_8_TEXT""}","{""ImportId"":""QID55_9_TEXT""}","{""ImportId"":""QID55_10_TEXT""}","{""ImportId"":""QID38""}","{""ImportId"":""QID52""}","{""ImportId"":""QID52_1_TEXT""}","{""ImportId"":""QID52_2_TEXT""}","{""ImportId"":""QID52_3_TEXT""}","{""ImportId"":""QID52_4_TEXT""}","{""ImportId"":""QID52_5_TEXT""}","{""ImportId"":""QID52_6_TEXT""}","{""ImportId"":""QID52_7_TEXT""}","{""ImportId"":""QID52_8_TEXT""}","{""ImportId"":""QID52_9_TEXT""}","{""ImportId"":""QID52_10_TEXT""}","{""ImportId"":""QID57""}","{""ImportId"":""QID57_5_TEXT""}","{""ImportId"":""QID13_TEXT""}","{""ImportId"":""QID50""}","{""ImportId"":""QID50_1_TEXT""}","{""ImportId"":""QID53""}","{""ImportId"":""QID53_1_TEXT""}","{""ImportId"":""QID15_TEXT""}","{""ImportId"":""QID14""}","{""ImportId"":""QID14_4_TEXT""}","{""ImportId"":""QID16""}","{""ImportId"":""QID58""}","{""ImportId"":""QID62_3_TEXT_7d7914a2b82f4bccb9d36420ParTopics""}","{""ImportId"":""QID62_3_TEXT_7d7914a2b82f4bccb9d36420Topics""}"
+2020-11-10 07:13:42,2020-11-10 07:22:01,IP Address,100,499,True,2020-11-10 07:22:02,R_2zYd6WHv8F24OJW,anonymous,EN,YES,3 days,,3,exercise 1 (provide a brief description),test,,,,,,,,,,Maybe,,,,,,,,,,,,smartphone app,,1 day,,2,,,,,,,,,,,,Yes,,,,,,,,,,,,audio file,,,,,,,,,,,,,
+2020-11-10 10:25:26,2020-11-10 10:45:53,IP Address,100,1227,True,2020-11-10 10:45:54,R_2wLfO4BOezfLzfT,anonymous,EN,YES,8 weeks,,7,"exercise 1 (provide a brief description),exercise 2 (provide a brief description),exercise 3 (provide a brief description),exercise 4 (provide a brief description),exercise 5 (provide a brief description),exercise 6 (provide a brief description),exercise 7 (provide a brief description),exercise 8 (provide a brief description),exercise 9 (provide a brief description),exercise 10 (provide a brief description)",Body-scan (short),Body-Scan (long),Awareness of Breath and Body,"the 5 awareness: Breath, Body, Sounds, Thoughts, Emotions","Turning towards, allowing, opening",Awareness of our Senses,Open Awareness,Awareness of thoughts,awareness of emotions,Kindly Awareness,Maybe,"exercise 1,exercise 2,exercise 3,exercise 4,exercise 5,exercise 6,exercise 7,exercise 8,exercise 9","Body scan, 10, 7","Body scan, 20, 7","Awareness of Breath and Body, 15, 7","The 5 Awarenesses, 15, 7","Turning towards, allowing, opening, 10, 7","Open Awareness, 15,7","Awareness of Thoughts, 15, 7","Awareness of Emotions, 15, 7","Kindly Awareness, 15, 7",,"smartphone app,audio file",,8 weeks,,7,"exercise 1 (provide a brief description),exercise 2 (provide a brief description),exercise 3 (provide a brief description),exercise 4 (provide a brief description),exercise 5 (provide a brief description),exercise 6 (provide a brief description),exercise 7 (provide a brief description),exercise 8 (provide a brief description),exercise 9 (provide a brief description),exercise 10 (provide a brief description)",Body Scan Practice,Body Scan Practice,Awareness of Breath and Body,Breathing space,"Turning towards, allowing, opening",Open awareness,Awareness of thoughts,Awareness of Emotions,Awareness of our Senses,Kindly Awareness,Maybe,"exercise 1,exercise 2,exercise 3,exercise 4,exercise 5,exercise 6,exercise 7,exercise 8,exercise 9,exercise 10","Body Scan, 20, 7","Body Scan, 30, 7","Awareness of Breath and Body, 30, 7","Breathing space, 20, 7","The 5 Awarenesses - Breath, Body, Sounds, Thoughts, Emotions, 30, 7","Turning towards, allowing, opening, 20, 7","Open Awareness, 20, 7","Awareness of thoughts, 20, 7","Awareness of Emotions, 20, 7","Kindly awareness, 30, 7","smartphone app,video,audio file",,n/a,No,,No,,,I am a certified instructor,,from 2 to 5 years,Ukraine,,
+2020-11-10 11:37:26,2020-11-10 12:11:29,IP Address,100,2042,True,2020-11-10 12:11:29,R_2RVorzDwDZzGJ2o,anonymous,EN,YES,4 weeks,,7,"exercise 1 (provide a brief description),exercise 2 (provide a brief description),exercise 3 (provide a brief description),exercise 4 (provide a brief description),exercise 5 (provide a brief description),exercise 6 (provide a brief description)",3-minute break,Focus on breathing,Body scan,Self compassion brake,Mindfulness walking,Mindfulness movements,,,,,Maybe,"exercise 1,exercise 2,exercise 3,exercise 4,exercise 5,exercise 6",3- minute break; 3;7;1-4,Body scan; 20;3;1-4,Self-compassion brake; 3;4;2-4,Breathing ex. 4;3;1-4,Mindfulness walking; 20;3;1-4,Mindfulness movements; 10;3;1-4,,,,,"smartphone app,audio file",,other duration (please specify),12 weeks,7,"exercise 1 (provide a brief description),exercise 2 (provide a brief description),exercise 3 (provide a brief description),exercise 4 (provide a brief description)",Love-kindness ex,Sound mediation,Breathing mediation,RAIN,,,,,,,Yes,"exercise 1,exercise 2,exercise 3,exercise 4",Love-kindness ex; 15;2;4-12,Sound meditation; 20;2;4-8,"Breath meditation; 20;3;8-12; ",RAIN; 30;1;6-12,,,,,,,"smartphone app,audio file,self-help book",,"Some people will need more professional help face to face exs. if the stress level is to high. You have to have some self-efficacy and self-discipline as a trait. I don't think age matter that much, but younger people are not afraid of apps or other techniques but some older people are.",No,,No,,Just a very good idea to develop new ways to offer good self-help interventions like mindfulness is to the people in need :-),I am a certified instructor,,more than 10 years,Iceland,,
+2020-11-10 12:14:50,2020-11-10 12:26:07,IP Address,100,676,True,2020-11-10 12:26:07,R_urnuc5DFfiiQYcp,anonymous,EN,YES,other duration (please specify),A few minutes is all that is required for an immediate reduction in stress levels.,5,exercise 1 (provide a brief description),"For an intervention to be successful it needs to be customized for the individual and will work best when the student is provided with several options. Helpful attitudes are more important than specific exercises and in general, I would recommend meditations that focus (in the following order) on: movement, touch, sounds, breath, body, mantra, thoughts, emotions, visualisations, contemplations.",,,,,,,,,,Yes,exercise 1,"There is no ideal or specific time required for each exercise. In other words, it will depend on each student. Generally, short commitments (a few minutes several times a day) is best for beginners.",,,,,,,,,,the source is not relevant,,6 weeks,,5,exercise 1 (provide a brief description),The same exercises as for low intensity.,,,,,,,,,,Yes,exercise 1,As per low intensity.,,,,,,,,,,another source (write which),"Again, what's most effective will depend upon the individual.",No doubt there are but this question is too broad to answer meaningfully.,Yes (please specify which),,Yes (please specify which),,,I am a certified instructor,,more than 10 years,Australia,,
+2020-11-10 09:19:53,2020-11-10 13:12:17,IP Address,100,13943,True,2020-11-10 13:12:18,R_1fa1upgM3EG22dR,anonymous,EN,YES,other duration (please specify),"Three weeks. ",7,"exercise 1 (provide a brief description),exercise 2 (provide a brief description),exercise 3 (provide a brief description)","Three Minute Breathing Space (daily or a few times a day for three weeks, as this practice really helps integrate mindfulness into daily living) ","Self-compassion Break (similar, a short practice that can be done daily and when needed, to start bringing kindness to self. Maybe even two weeks would bring some change) ","Polyvagal calming practice of five slow breaths down to the abdomen. Five again with making the low-pitched sound 'wooo' on the out breath restores calm to the gut. Can also be combined with putting your hand on your heart or a similar gesture of reassuring touch.   ",,,,,,,,No,"exercise 1,exercise 2,exercise 3","Three Minute Breathing Space 2 to 4, 14, 1-3","Self-compassion Break 5, 7, 1 - 2","Polyvagal exercises 2, 14-21, 1-3",,,,,,,,"smartphone app,audio file,self-help book",,8 weeks,,5,"exercise 1 (provide a brief description),exercise 2 (provide a brief description),exercise 3 (provide a brief description),exercise 4 (provide a brief description)","Bodyscan. ","Mindfulness with support, breath, sound or body sensations",Mindful walking or movement such as yoga or chi kung,"Loving kindness practice to other and self. ",,,,,,,Maybe,"exercise 1,exercise 2,exercise 3,exercise 4","Bodyscan 30, 3, 1-4","Mindful walking or movement 20, 4, 1-4","Mindfulness with breath or sound as support 20, 5, 1-8","Loving kindness to self and other 15, 4, 1-8",,,,,,,"smartphone app,video,audio file,self-help book",,"Yes, anxiety, depression, trauma (to name a few afflictions, that can also potentially benefit from the intervention, but it may take longer or need special care eg with trauma) ",Yes (please specify which),"I haven't found a lot of research on this, I have looked! One example is that in African culture, visions are considered important and people might not want to just let go of them and return to the support. , ",Yes (please specify which),"Again, I haven't found much research on this (though I last looked over a year ago)  I'd love more answers too but don't have them. ","Encouraging people to articulate their motivation and remind them selves of it regularly can really help with sticking to the practices. ",I am a certified instructor,,more than 10 years,South Africa,,
+2020-11-10 21:21:58,2020-11-10 21:35:52,IP Address,100,834,True,2020-11-10 21:35:53,R_1gjcZ9KQWpZCVuU,anonymous,EN,YES,4 weeks,,6,"exercise 1 (provide a brief description),exercise 2 (provide a brief description),exercise 3 (provide a brief description),exercise 4 (provide a brief description),exercise 5 (provide a brief description)",Body scan - seated or lying down,3-minute breathing space,Awareness of Breath - 15 minutes minimum,Gentle mindful movement sequences,6-anchors meditation,,,,,,Maybe,"exercise 1,exercise 2,exercise 3,exercise 4,exercise 5",Body scan;15-30;4;2,3-min Breathing Space;3-5;4-5;1,Awareness of Breath;10-15;4;2,Gentle Mindful Movement sequence;30-40;4-5;3,6 Anchors Meditation;20-30;4-5;4,,,,,,"smartphone app,video,audio file",,4 weeks,,6,"exercise 1 (provide a brief description),exercise 2 (provide a brief description),exercise 3 (provide a brief description),exercise 4 (provide a brief description),exercise 5 (provide a brief description),exercise 6 (provide a brief description),exercise 7 (provide a brief description),exercise 8 (provide a brief description)",Body scan,Awareness of Breath,Gentle Mindful Movement Sequence,3-min breathing space,6 Anchors Meditation,Walking meditation,Standing meditation,Open Awareness meditation,,,Maybe,"exercise 1,exercise 2,exercise 3,exercise 4,exercise 5,exercise 6,exercise 7,exercise 8",Body scan;30-40;5-6;1,Awareness of Breath;20;4-5;1-2,Gentle Mindful Movement;30-40;4-5;3-4,3-min Breathing Space;3-5;6-7;1-4,6 Anchors Meditation;15-20;4-5;3-4,Walking Meditation;10-15;3-4;3-4,Standing Meditation;10;3-4;3-4,Open Awareness;20-30;4-5;4,,,"smartphone app,video,audio file",,Diagnosis of clinical mental dysfunction,,,,,,I am a certified instructor,,from 5 to 10 years,Australia,,

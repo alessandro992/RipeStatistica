@@ -1,3 +1,9 @@
+if (!require(forcats)) {install.packages('forcats')}
+if (!require(tidyverse)) {install.packages('tidyverse')}
+if (!require(ellipse)) {install.packages('ellipse')}
+if (!require(RColorBrewer)) {install.packages('RColorBrewer')}
+if (!require(corrgram)) {install.packages('corrgram')}
+
 library(ggplot2)
 library(readxl)
 library(dplyr)
@@ -14,7 +20,7 @@ library(corrgram)
 
 # Import file txt, excel, sistema (oppure dal wizard)
 data_excel <- read_excel("C:/Users/Filippo/Desktop/data.xlsx", sheet = "2014")
-dati <- read.csv2("C:/Users/Filippo/Desktop/dati.txt", sep="")
+dati <- read.csv2("/Users/alessandrosparacio/Google\ Drive/R\ stuff/RipeStatistica/dati.txt", sep="")
 attach(mtcars)
 attach(iris)
 attach(airquality)
