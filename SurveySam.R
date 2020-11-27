@@ -14,6 +14,7 @@ library(ellipse)
 library(RColorBrewer)
 library(corrgram)
 
+dati <- dati
 
 dati <- read.csv2("dataset.csv", sep=",")
 
